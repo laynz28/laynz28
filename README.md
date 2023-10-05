@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding And stuff 
 - 🌱 I’m currently learning Ai and coding
 - 📫 How to reach me you can aslo go to my youtube music channel
-
+- https://youtube.com/@laynz-vx3rg?si=CsDijP09giDfLmKO 
 <!---
 subscribe or bluek -> dead
 https://youtube.com/@laynz-vx3rg?si=CsDijP09giDfLmKO
