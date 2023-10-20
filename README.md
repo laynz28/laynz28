@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laynz28&label=Profile%20views&color=0e75b6&style=flat" alt="laynz28" /> </p>
 
 
-- 🔭 I’m currently working on [AI Waifu VTUBER](https://github.com/ardha27/AI-Waifu-Vtuber)
+- 🔭 I’m currently working on [KitEngine](https://github.com/laynz28/KitEngine)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Object Detection**
 
