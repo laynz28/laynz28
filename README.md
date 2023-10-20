@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://telegra.ph/file/3fbeb60353b7d990a8148.gif">
+<img align="right" alt="Coding" width="400" src="https://static.wikia.nocookie.net/fridaynightfunking/images/2/2d/PlayItsumiW5.gif/revision/latest?cb=20220609230038">
 
 - 👋 Hi, I’m @laynz28
 - 
