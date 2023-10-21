@@ -28,4 +28,4 @@
                                                                                       OTHER PROJECT
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.m.wikipedia.org%2Fwiki%2FBerkas%3AFNF-Logo.svg&psig=AOvVaw0GUvis8OghncxeYclSwC73&ust=1697951337504000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCauuavhoIDFQAAAAAdAAAAABAE">
+<img align="right" alt="FNF" width="400" src="https://static.wikia.nocookie.net/fridaynightfunkin/images/7/70/FNF_Logo_ba-bumps.gif/revision/latest/scale-to-width-down/1200?cb=20210213014348">
