@@ -1,5 +1,3 @@
-k 
-
 
 <h1 align="center">Hi 👋, I'm Laynz28</h1>
 <h3 align="center">new programer from Indonesia</h3>
@@ -13,8 +11,7 @@ k
 
 - 🌱 I’m currently learning **[Artificial Intelligence](https://www.google.com/search?client=firefox-b-d&q=Artificial+Intelligence), [Object Detection](https://www.google.com/search?client=firefox-b-d&q=Object+Detection)**
 
-- 🤝 I’m looking for help with [project-main]([https://github.com/laynz28/KitEngine](https://github.com/HoshioPilio/projetc-main))
-- 
+🤝 I’m looking for help with  **[project-main](https://github.com/HoshioPilio/projetc-main),** 
 
 
 
