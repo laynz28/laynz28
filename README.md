@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Laynz28</h1>
 <h3 align="center">new programer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.scdn.co/image/ab67706c0000da84c097328895765e6e5c67da7b">
+![BANNER](https://i.scdn.co/image/ab67706c0000da84c097328895765e6e5c67da7b)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laynz28&label=Profile%20views&color=0e75b6&style=flat" alt="laynz28" /> </p>
 
